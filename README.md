@@ -1,7 +1,7 @@
 Laravel-FTP
 ===========
 
-A simple Laravel 5/6/7 ftp service provider.
+A simple Laravel 5/6/7/8 ftp service provider.
 
 [![Latest Stable Version](https://poser.pugx.org/anchu/ftp/v/stable)](https://packagist.org/packages/anchu/ftp)
 [![Build Status](https://travis-ci.org/harishanchu/Laravel-FTP.png?branch=master)](https://travis-ci.org/harishanchu/Laravel-FTP)
@@ -17,7 +17,7 @@ Add the package to your `composer.json` and run `composer update`.
 
     {
         "require": {
-            "anchu/ftp": "~2.0"
+            "jilfond/laravel-ftp": "~2.0"
         }
     }
 > If you're using Laravel 5.5+ skip the next step, as Laravel auto discover packages.
